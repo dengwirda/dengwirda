@@ -8,6 +8,8 @@
   <img src = "../master/pixels.png" width="100%">
 </p>
 
+`* johloh: http://www.spritestitch.com/author/johloh/`
+
 <!--
 **dengwirda/dengwirda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
