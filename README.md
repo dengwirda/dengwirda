@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+- Homepage: [`https://dengwirda.github.io/`](https://dengwirda.github.io/)
+- 📫 Contact: [`d.engwirda@gmail.com`](d.engwirda@gmail.com)
+- 🔭 I’m currently working on [`MPAS-O[SI|LI]`](https://github.com/MPAS-Dev), [`jigsaw-[python|MATLAB]`](https://github.com/dengwirda/jigsaw), [...](https://github.com/dengwirda?tab=repositories)
+
+<p align="middle">
+  <img src = "../master/pixels.png" width="100%">
+</p>
+
 <!--
 **dengwirda/dengwirda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
