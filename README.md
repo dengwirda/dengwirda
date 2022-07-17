@@ -2,9 +2,7 @@
 
 - Homepage: [`https://dengwirda.github.io/`](https://dengwirda.github.io/)
 - 📫 Contact: [`dengwirda@lanl.gov`](dengwirda@lanl.gov), [`d.engwirda@gmail.com`](d.engwirda@gmail.com)
-- 🔭 I’m currently working on [`MPAS-O[SI|LI]`](https://github.com/MPAS-Dev), [`jigsaw-[python|MATLAB]`](https://github.com/dengwirda/jigsaw), [`SWE-python`](https://github.com/dengwirda/swe-python), [...](https://github.com/dengwirda?tab=repositories)
-- LANL Postdoc: [`sea-level-and-non-boussinesq-ocean-processes`](https://lanl.jobs/los-alamos-nm/sea-level-and-non-boussinesq-ocean-processes-postdoc/7E6DD963697649378A25980037329346/job/)
-- LANL Postdoc: [`coastal-ocean-modelling-and-estuary-dynamics`](https://lanl.jobs/los-alamos-nm/estuary-dynamics-postdoc/33D0D73C02644F0FAE7457FCA169B0BA/job/)
+- 🔭 I’m currently working on [`MPAS-O`](https://github.com/MPAS-Dev), [`jigsaw-[python|MATLAB]`](https://github.com/dengwirda/jigsaw), [`SWE-python`](https://github.com/dengwirda/swe-python), [...](https://github.com/dengwirda?tab=repositories)
 
 <p align="middle">
   <img src = "../master/pixels.png" width="100%">
