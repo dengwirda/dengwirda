@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 - Homepage: [`https://dengwirda.github.io/`](https://dengwirda.github.io/)
-- 📫 Contact: [`dengwirda@lanl.gov`](dengwirda@lanl.gov), [`d.engwirda@gmail.com`](d.engwirda@gmail.com)
-- 🔭 I’m currently working on [`MPAS-O`](https://github.com/MPAS-Dev), [`jigsaw-[python|MATLAB]`](https://github.com/dengwirda/jigsaw), [`SWE-python`](https://github.com/dengwirda/swe-python), [...](https://github.com/dengwirda?tab=repositories)
+- 📫 Contact: [`d.engwirda@gmail.com`](d.engwirda@gmail.com)
+- 🔭 I’m currently working on [`MPAS-O`](https://github.com/MPAS-Dev), [`jigsaw-[python|MATLAB]`](https://github.com/dengwirda/jigsaw), [`SWE-solvers`](https://github.com/dengwirda/swe-python), [...](https://github.com/dengwirda?tab=repositories)
 
 <p align="middle">
   <img src = "../master/pixels.png" width="100%">
